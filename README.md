@@ -1,2 +1,2 @@
 # Estrutura de Dados
- Máteria de DAD
+ Códigos desenvolvidos na matéria de Estrutura de dados com utilização do Python.
